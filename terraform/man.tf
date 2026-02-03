@@ -11,5 +11,5 @@ resource "aws_instance" "example" {
   }
  }
 
-- AWS Provider
-- Tags usage
+ - AWS Provider
+ - Tags usage
